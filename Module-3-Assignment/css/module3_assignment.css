@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+h1{
+	font-size: 30px;
+	margin: 15px;
+	padding: 15px;
+	font-weight: bold;
+	color: #000070;
+}
+.item{
+	background-color:#00cc99;
+	margin: 15px;
+	padding: 10px;
+	color: black;
+}
+#menu{
+	background-color: #FEF5CA;
+}
+h3{
+	background-color: #000022;
+	color: white;
+	padding: 10px;
+}
+body{
+	font-family: cursive;
+}
+button{
+	bottom: -25px;
+}
